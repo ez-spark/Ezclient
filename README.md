@@ -22,6 +22,6 @@ import ezclient
 - Version: 1.0.0
 
  - [x] Ez-spark client tunneling protocol
- - [x] python >= 3.6 
+ - [x] 3.6 <= python < 3.11
  - [x] MacOS, Linux, Windows
  
