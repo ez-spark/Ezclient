@@ -19,7 +19,7 @@ import ezclient
 
 # Ezclient supports
 
-- Version: 1.0.0
+- Version: 1.0.1
 
  - [x] Ez-spark client tunneling protocol
  - [x] 3.6 <= python < 3.11
